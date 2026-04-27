@@ -92,7 +92,7 @@ Saved in:
 outputs/loss_curve.png
 ```
 
-![Loss Curve](outputs/loss_curve.png)
+![Loss Curve](output/loss_curve.png)
 
 ### Generated Samples
 
@@ -187,3 +187,10 @@ Conceptual inspiration from:
 ## Notes
 
 This project is for educational purposes.
+
+## Author
+**Vasan Iyer**  
+Embedded / AI Engineer  
+Focus:  Python, AI, LLMs, GPT
+
+GitHub: https://github.com/Vaiy108
