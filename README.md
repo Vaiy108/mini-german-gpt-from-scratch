@@ -114,21 +114,27 @@ im Zimmer lag und die Gedanken sich verwirrten...
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
-.
-├── model.py        # GPT model implementation
-├── train.py        # training pipeline
-├── generate.py     # text generation script
+german-gpt-from-scratch/
+│
+├── README.md
 ├── requirements.txt
+├── model.py
+├── train.py
+├── generate.py
+│
 ├── data/
 │   └── german_kafka.txt
+│
 ├── outputs/
 │   ├── loss_curve.png
-│   └── german_gpt_checkpoint.pt
+│   ├── german_gpt_checkpoint.pt
+│   └── samples.txt
+│
 └── notebooks/
-    └── assignment_notebook.ipynb
+    └── mini-german-gpt-from-scratch.ipynb
 ```
 
 ---
